@@ -158,7 +158,7 @@
 }
 .animation::after{
 	content: 'Hungry?';
-	animation: myAnimation 20.4s ease infinite normal none;
+	animation: myAnimation 20.4s ease  infinite normal none;
     position: relative;
 }
 @keyframes myAnimation{
